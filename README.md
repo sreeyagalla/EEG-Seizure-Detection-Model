@@ -36,8 +36,6 @@ Visual representations of EEG data and model predictions are included in the Jup
 ## Conclusion and Future Work
 While the current model performs robustly, future improvements could involve exploring more complex neural network architectures, expanding the dataset, and refining feature extraction techniques to enhance accuracy and reliability further.
 
-## License
-This project is released under an MIT License.
 
-## Contact
-For any queries or discussions regarding this project, please contact any of the team members via LinkedIn.
+
+
